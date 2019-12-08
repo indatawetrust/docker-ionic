@@ -1,4 +1,4 @@
-FROM beevelop/cordova
+FROM iamaroot/cordova
 
 ENV IONIC_VERSION 5.2.3
 
